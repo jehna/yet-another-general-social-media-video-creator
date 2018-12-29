@@ -1,0 +1,13 @@
+{
+  "name": "some-video-creator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "minimist": "^1.2.0"
+  }
+}
