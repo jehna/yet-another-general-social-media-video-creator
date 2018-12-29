@@ -34,7 +34,7 @@ node run.js --top-text='some boring' --bottom-text='caption to this video' yourv
 This takes input from `yourvideo.mp4`, adds blurred background and texts, and
 outputs the result to `output.mp4`. The result looks something like this:
 
-![Screenshot](https://raw.githubusercontent.com/jehna/yet-another-general-social-media-video-creator/master/screenshot.png)
+<img src="https://raw.githubusercontent.com/jehna/yet-another-general-social-media-video-creator/master/screenshot.png" width="320" height="320" />
 
 ## Features
 
